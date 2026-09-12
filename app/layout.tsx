@@ -3,7 +3,6 @@ import './globals.css';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import GoogleAnalytics from '@/components/analytics/GoogleAnalytics';
-import AdSenseScript from '@/components/ads/AdSenseScript';
 import { siteConfig } from '@/config/site';
 
 export const viewport: Viewport = {
@@ -89,6 +88,11 @@ export default function RootLayout({
     <html lang="en" className="dark">
       <head>
         <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4427196949215667"
+          crossOrigin="anonymous"
+        />
+        <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
@@ -99,7 +103,6 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-slate-100 bg-background selection:bg-purple-500/30 selection:text-purple-200">
         <GoogleAnalytics />
-        <AdSenseScript />
         <Header />
         <main className="flex-1 w-full">{children}</main>
         <Footer />

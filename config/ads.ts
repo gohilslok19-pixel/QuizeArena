@@ -10,7 +10,8 @@
  * a clean, non-intrusive development placeholder box that automatically prevents layout shift.
  */
 
-const rawClientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+const rawClientId =
+  process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || 'ca-pub-4427196949215667';
 const isRealClientId = Boolean(
   rawClientId &&
     rawClientId.startsWith('ca-pub-') &&

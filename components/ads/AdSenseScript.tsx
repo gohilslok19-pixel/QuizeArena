@@ -11,9 +11,10 @@ export default function AdSenseScript() {
   return (
     <Script
       id="google-adsense"
-      src={`https://page2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsConfig.clientId}`}
+      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsConfig.clientId}`}
       strategy="afterInteractive"
       crossOrigin="anonymous"
+      async
     />
   );
 }
