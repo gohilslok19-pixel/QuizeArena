@@ -1,0 +1,76 @@
+{
+  "id": "world-knowledge-quiz",
+  "slug": "world-knowledge-quiz",
+  "title": "World Knowledge Quiz",
+  "description": "Challenge your understanding of international diplomacy, global inventions, languages, and world geography.",
+  "category": "General Knowledge",
+  "categorySlug": "general-knowledge",
+  "difficulty": "medium",
+  "estimatedTime": "3 min",
+  "popular": true,
+  "seoTitle": "World Knowledge Quiz – International Trivia | AI Quiz Arena",
+  "seoDescription": "Test your global awareness with this 10-question World Knowledge Quiz. Learn interesting facts with detailed explanations.",
+  "keywords": ["world trivia quiz", "international knowledge", "global facts", "world quiz test"],
+  "questions": [
+    {
+      "question": "Where is the official headquarters of the United Nations located?",
+      "options": ["Geneva, Switzerland", "New York City, USA", "Brussels, Belgium", "The Hague, Netherlands"],
+      "correctAnswer": 1,
+      "explanation": "The primary headquarters of the United Nations is in the Turtle Bay neighborhood of Manhattan, New York City."
+    },
+    {
+      "question": "Which language has the highest number of native speakers worldwide?",
+      "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+      "correctAnswer": 2,
+      "explanation": "Mandarin Chinese has the largest number of first-language (native) speakers in the world, with over 900 million native speakers."
+    },
+    {
+      "question": "The Nobel Peace Prize is awarded annually in which city?",
+      "options": ["Stockholm", "Oslo", "Copenhagen", "Helsinki"],
+      "correctAnswer": 1,
+      "explanation": "Unlike the other Nobel Prizes which are presented in Stockholm, Sweden, the Nobel Peace Prize is presented annually in Oslo, Norway."
+    },
+    {
+      "question": "Which canal connects the Mediterranean Sea directly to the Red Sea?",
+      "options": ["Panama Canal", "Suez Canal", "Kiel Canal", "Corinth Canal"],
+      "correctAnswer": 1,
+      "explanation": "The Suez Canal in Egypt is an artificial sea-level waterway that provides the shortest maritime route between Europe and Asia."
+    },
+    {
+      "question": "Which ancient civilization constructed the cliff-top citadel of Machu Picchu?",
+      "options": ["Mayan", "Aztec", "Incan", "Olmec"],
+      "correctAnswer": 2,
+      "explanation": "Machu Picchu was built by the Inca Empire in the 15th century high in the Andes mountains of Peru."
+    },
+    {
+      "question": "What is the longest river in the world by conventional consensus?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "correctAnswer": 1,
+      "explanation": "The Nile River in northeastern Africa is traditionally recognized as the longest river at approximately 6,650 km (4,132 miles)."
+    },
+    {
+      "question": "Which country is famously known as the 'Land of the Midnight Sun'?",
+      "options": ["Norway", "Iceland", "Canada", "Greenland"],
+      "correctAnswer": 0,
+      "explanation": "Norway is called the Land of the Midnight Sun because parts of it experience 24-hour sunlight during summer months north of the Arctic Circle."
+    },
+    {
+      "question": "In which century did the Renaissance period begin?",
+      "options": ["12th Century", "14th Century", "16th Century", "18th Century"],
+      "correctAnswer": 1,
+      "explanation": "The Renaissance began in Florence, Italy, during the 14th century (circa 1300s) before spreading across Europe."
+    },
+    {
+      "question": "What is the name of the world's highest uninterrupted waterfall?",
+      "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+      "correctAnswer": 2,
+      "explanation": "Angel Falls in Canaima National Park, Venezuela, is the world's highest uninterrupted waterfall, dropping 979 meters (3,212 feet)."
+    },
+    {
+      "question": "Which is the smallest recognized independent nation in the world by both area and population?",
+      "options": ["Monaco", "Nauru", "San Marino", "Vatican City"],
+      "correctAnswer": 3,
+      "explanation": "Vatican City covers an area of roughly 49 hectares (121 acres) entirely enclosed within Rome, Italy."
+    }
+  ]
+}

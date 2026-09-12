@@ -1,0 +1,75 @@
+{
+  "id": "physics-challenge",
+  "slug": "physics-challenge",
+  "title": "Physics Challenge",
+  "description": "Test your mastery of motion, thermodynamics, electromagnetism, and classical mechanics.",
+  "category": "Science",
+  "categorySlug": "science",
+  "difficulty": "hard",
+  "estimatedTime": "4 min",
+  "seoTitle": "Physics Challenge Quiz – Test Classical & Modern Physics | AI Quiz Arena",
+  "seoDescription": "Challenge yourself with 10 physics questions on Newton's laws, energy conservation, optics, and speed of light.",
+  "keywords": ["physics quiz", "physics challenge mcq", "mechanics thermodynamics questions", "science exam quiz"],
+  "questions": [
+    {
+      "question": "What is the approximate speed of light in a vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "30,000 km/s", "3,000,000 km/s"],
+      "correctAnswer": 0,
+      "explanation": "Light travels at roughly 299,792 km/s (approximately 300,000 km per second) in a complete vacuum."
+    },
+    {
+      "question": "Which SI unit is used to measure electrical resistance?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correctAnswer": 2,
+      "explanation": "The Ohm (symbol: Ω) is the SI unit of electrical resistance, named after German physicist Georg Simon Ohm."
+    },
+    {
+      "question": "According to Newton's Second Law of Motion, force equals mass multiplied by what?",
+      "options": ["Velocity", "Acceleration", "Momentum", "Displacement"],
+      "correctAnswer": 1,
+      "explanation": "F = m * a states that force equals mass times acceleration."
+    },
+    {
+      "question": "What type of energy is stored in an object due to its position in a gravitational field?",
+      "options": ["Kinetic Energy", "Potential Energy", "Thermal Energy", "Chemical Energy"],
+      "correctAnswer": 1,
+      "explanation": "Gravitational potential energy (PE = mgh) is energy stored in an object because of its elevated position."
+    },
+    {
+      "question": "Which principle explains how airplanes generate aerodynamic lift through curved wings?",
+      "options": ["Pascal's Law", "Bernoulli's Principle", "Archimedes' Principle", "Hooke's Law"],
+      "correctAnswer": 1,
+      "explanation": "Bernoulli's Principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in static pressure."
+    },
+    {
+      "question": "Absolute zero corresponds to what temperature on the Celsius scale?",
+      "options": ["-100°C", "-212°C", "-273.15°C", "-459.67°C"],
+      "correctAnswer": 2,
+      "explanation": "Absolute zero (0 Kelvin) is the theoretical temperature at which all thermal motion ceases, equivalent to -273.15°C."
+    },
+    {
+      "question": "What phenomenon causes a prism to separate white light into a rainbow spectrum?",
+      "options": ["Reflection", "Refraction", "Polarization", "Interference"],
+      "correctAnswer": 1,
+      "explanation": "Dispersion via refraction occurs because different wavelengths of light bend at slightly different angles when passing through glass."
+    },
+    {
+      "question": "What is the SI unit of work and energy?",
+      "options": ["Newton", "Joule", "Pascal", "Hertz"],
+      "correctAnswer": 1,
+      "explanation": "The Joule (J) is the SI unit of work and energy, equal to the work done by a force of one newton over one meter."
+    },
+    {
+      "question": "Which property of a wave determines its perceived pitch in sound?",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Velocity"],
+      "correctAnswer": 1,
+      "explanation": "Frequency, measured in Hertz (Hz), corresponds directly to the pitch of acoustic sound waves."
+    },
+    {
+      "question": "What is the acceleration due to Earth's gravity near the surface (standard g)?",
+      "options": ["8.9 m/s²", "9.8 m/s²", "10.8 m/s²", "11.2 m/s²"],
+      "correctAnswer": 1,
+      "explanation": "Standard acceleration due to gravity on Earth's surface is approximately 9.80665 m/s² (commonly rounded to 9.8 m/s²)."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "indian-geography",
+  "slug": "indian-geography",
+  "title": "Indian Geography Challenge",
+  "description": "Explore the physical features of the Indian subcontinent: Himalayan peaks, river basins, plateaus, and passes.",
+  "category": "India",
+  "categorySlug": "india",
+  "difficulty": "medium",
+  "estimatedTime": "3 min",
+  "popular": true,
+  "seoTitle": "Indian Geography Quiz – Mountains, Rivers & States | AI Quiz Arena",
+  "seoDescription": "Test your knowledge of Indian geography with 10 questions on the Ganges, Western Ghats, Thar Desert, and highest peaks.",
+  "keywords": ["indian geography quiz", "india rivers mountains test", "western ghats quiz", "himalayas trivia"],
+  "questions": [
+    {
+      "question": "What is the highest mountain peak situated entirely within undisputed Indian territory?",
+      "options": ["K2 (Godwin-Austen)", "Kangchenjunga", "Nanda Devi", "Kamet"],
+      "correctAnswer": 1,
+      "explanation": "Kangchenjunga (8,586 m) lies on the Sikkim-Nepal border, while Nanda Devi (7,816 m) is the highest peak located entirely within India."
+    },
+    {
+      "question": "Which major river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": ["Krishna", "Godavari", "Cauvery", "Mahanadi"],
+      "correctAnswer": 1,
+      "explanation": "Godavari is often called 'Dakshin Ganga' or 'Vridha Ganga' due to its large basin size and religious significance across peninsular India."
+    },
+    {
+      "question": "Which mountain range runs parallel to the western coast of peninsular India and is a recognized UNESCO World Heritage biodiversity hotspot?",
+      "options": ["Aravalli Range", "Vindhya Range", "Western Ghats (Sahyadri)", "Eastern Ghats"],
+      "correctAnswer": 2,
+      "explanation": "The Western Ghats (Sahyadri) run 1,600 km parallel to the western coast and host exceptional biological diversity."
+    },
+    {
+      "question": "What is the name of the salt desert situated in the Kutch district of Gujarat?",
+      "options": ["Thar Desert", "Rann of Kutch", "Spiti Cold Desert", "Deccan Dryland"],
+      "correctAnswer": 1,
+      "explanation": "The Great Rann of Kutch is a seasonal salt marsh located in the Thar Desert biogeographic zone of Gujarat."
+    },
+    {
+      "question": "Which Indian river originates near Lake Manasarovar in Tibet, where it is known as the Yarlung Tsangpo?",
+      "options": ["Indus", "Brahmaputra", "Sutlej", "Ganges"],
+      "correctAnswer": 1,
+      "explanation": "The Brahmaputra originates in southwestern Tibet as the Yarlung Tsangpo before flowing into Arunachal Pradesh and Assam."
+    },
+    {
+      "question": "Which is the smallest Indian state by land area?",
+      "options": ["Sikkim", "Goa", "Tripura", "Mizoram"],
+      "correctAnswer": 1,
+      "explanation": "Goa covers an area of roughly 3,702 square kilometers, making it India's smallest state by land area."
+    },
+    {
+      "question": "What strait separates India from the island nation of Sri Lanka?",
+      "options": ["Malacca Strait", "Palk Strait", "Hormuz Strait", "Sunda Strait"],
+      "correctAnswer": 1,
+      "explanation": "The Palk Strait lies between Tamil Nadu, India, and the Jaffna District of Sri Lanka."
+    },
+    {
+      "question": "Which Indian state shares borders with three neighboring foreign countries: China, Nepal, and Bhutan?",
+      "options": ["Arunachal Pradesh", "Sikkim", "West Bengal", "Uttarakhand"],
+      "correctAnswer": 1,
+      "explanation": "Sikkim is bordered by Nepal in the west, China's Tibet Autonomous Region in the north and northeast, and Bhutan in the east."
+    },
+    {
+      "question": "What is the oldest fold mountain system in India?",
+      "options": ["Himalayas", "Aravalli Range", "Satpura Range", "Western Ghats"],
+      "correctAnswer": 1,
+      "explanation": "The Aravalli Range is one of the oldest geological fold mountain systems in the world, dating to the Proterozoic eon."
+    },
+    {
+      "question": "The southernmost point of Indian territory, located in the Nicobar Islands, is known as what?",
+      "options": ["Kanyakumari", "Indira Point", "Dhanushkodi", "Port Blair"],
+      "correctAnswer": 1,
+      "explanation": "Indira Point on Great Nicobar Island is the southernmost point of the Republic of India (6°45'10″ N latitude)."
+    }
+  ]
+}

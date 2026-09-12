@@ -1,0 +1,77 @@
+{
+  "id": "general-knowledge-challenge",
+  "slug": "general-knowledge-challenge",
+  "title": "General Knowledge Challenge",
+  "description": "Put your general trivia to the test with 10 classic questions spanning world records, landmarks, and global culture.",
+  "category": "General Knowledge",
+  "categorySlug": "general-knowledge",
+  "difficulty": "easy",
+  "estimatedTime": "3 min",
+  "featured": true,
+  "popular": true,
+  "seoTitle": "General Knowledge Challenge – Free Trivia Quiz | AI Quiz Arena",
+  "seoDescription": "Take our quick 10-question General Knowledge Challenge. Test your trivia skills, view instant explanations, and beat your personal best.",
+  "keywords": ["general knowledge quiz", "gk trivia", "free quiz online", "general trivia questions", "easy trivia challenge"],
+  "questions": [
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": 3,
+      "explanation": "The Pacific Ocean is the largest and deepest ocean basin on Earth, covering more than 60 million square miles."
+    },
+    {
+      "question": "What is the hardest natural substance found on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correctAnswer": 2,
+      "explanation": "Diamond is composed of carbon atoms arranged in a strong crystal lattice, making it the hardest natural mineral known."
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": ["France", "United Kingdom", "Spain", "Germany"],
+      "correctAnswer": 0,
+      "explanation": "The Statue of Liberty was a gift of friendship from the people of France to the United States, dedicated in 1886."
+    },
+    {
+      "question": "How many colors are in a standard rainbow?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "explanation": "The standard visible spectrum consists of seven colors: red, orange, yellow, green, blue, indigo, and violet (ROYGBIV)."
+    },
+    {
+      "question": "Which animal is officially known as the fastest land mammal?",
+      "options": ["Lion", "Cheetah", "Gazelle", "Leopard"],
+      "correctAnswer": 1,
+      "explanation": "The cheetah can reach speeds between 60 and 70 mph (97 to 113 km/h) in short sprints."
+    },
+    {
+      "question": "In which city is the famous Colosseum located?",
+      "options": ["Athens", "Rome", "Paris", "Cairo"],
+      "correctAnswer": 1,
+      "explanation": "The Colosseum is an ancient amphitheater situated in the center of Rome, Italy, built under the Flavian emperors."
+    },
+    {
+      "question": "What is the primary currency used in Japan?",
+      "options": ["Yuan", "Won", "Yen", "Baht"],
+      "correctAnswer": 2,
+      "explanation": "The Japanese Yen (JPY) has been the official currency of Japan since 1871."
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+      "correctAnswer": 1,
+      "explanation": "A barometer measures atmospheric pressure, which meteorologists use to forecast weather changes."
+    },
+    {
+      "question": "Who painted the famous masterpiece 'Mona Lisa'?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "correctAnswer": 2,
+      "explanation": "The Mona Lisa was painted by the Italian Renaissance polymath Leonardo da Vinci in the early 16th century."
+    },
+    {
+      "question": "Which element does the chemical symbol 'O' represent?",
+      "options": ["Osmium", "Oxygen", "Ozone", "Oxalate"],
+      "correctAnswer": 1,
+      "explanation": "'O' is the atomic symbol for Oxygen, atomic number 8 on the periodic table."
+    }
+  ]
+}

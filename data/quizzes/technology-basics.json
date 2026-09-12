@@ -1,0 +1,76 @@
+{
+  "id": "technology-basics",
+  "slug": "technology-basics",
+  "title": "Technology Basics",
+  "description": "How well do you know common tech terms, consumer devices, operating systems, and hardware?",
+  "category": "Technology",
+  "categorySlug": "technology",
+  "difficulty": "easy",
+  "estimatedTime": "3 min",
+  "popular": true,
+  "seoTitle": "Technology Basics Quiz – Test Your Tech Knowledge | AI Quiz Arena",
+  "seoDescription": "Quick 10-question technology basics quiz covering CPU, RAM, SSD, Wi-Fi, and operating systems.",
+  "keywords": ["technology quiz", "tech basics test", "computer hardware quiz", "IT trivia"],
+  "questions": [
+    {
+      "question": "What does CPU stand for in computer hardware?",
+      "options": ["Central Processing Unit", "Central Power User", "Computer Protocol Utility", "Central Program Unit"],
+      "correctAnswer": 0,
+      "explanation": "The CPU (Central Processing Unit) acts as the 'brain' of the computer, executing program instructions and processing data."
+    },
+    {
+      "question": "Which company developed the Android mobile operating system?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "correctAnswer": 2,
+      "explanation": "Google acquired Android Inc. in 2005 and officially unveiled the open-source mobile OS in 2007."
+    },
+    {
+      "question": "What type of memory loses its stored data when a computer is turned off?",
+      "options": ["ROM", "SSD", "RAM", "Hard Disk"],
+      "correctAnswer": 2,
+      "explanation": "RAM (Random Access Memory) is volatile memory used for active application data and empties upon power loss."
+    },
+    {
+      "question": "What does 'USB' stand for in device connectivity?",
+      "options": ["Universal Serial Bus", "United Software Bridge", "Uniform System Byte", "Universal Storage Board"],
+      "correctAnswer": 0,
+      "explanation": "USB stands for Universal Serial Bus, an industry standard establishing specifications for cables and connectors."
+    },
+    {
+      "question": "Which wireless standard is primarily used for short-range personal device connections like wireless earbuds?",
+      "options": ["Wi-Fi", "Bluetooth", "NFC", "LTE"],
+      "correctAnswer": 1,
+      "explanation": "Bluetooth is designed for exchanging data over short distances between mobile devices, headphones, and peripherals."
+    },
+    {
+      "question": "What does 'SSD' stand for in digital storage?",
+      "options": ["Super Storage Drive", "Solid State Drive", "System Security Disk", "Static Serial Drive"],
+      "correctAnswer": 1,
+      "explanation": "Solid State Drives use flash memory with no moving parts, delivering significantly faster read/write speeds than mechanical HDDs."
+    },
+    {
+      "question": "Which technology company produces the iPhone, iPad, and MacBook?",
+      "options": ["Microsoft", "Sony", "Apple", "Dell"],
+      "correctAnswer": 2,
+      "explanation": "Apple Inc. designs and manufactures iOS and macOS consumer electronics products."
+    },
+    {
+      "question": "What does the abbreviation 'GPU' stand for?",
+      "options": ["General Processing Unit", "Graphics Processing Unit", "Global Protocol Utility", "Graphic Panel Utility"],
+      "correctAnswer": 1,
+      "explanation": "A GPU (Graphics Processing Unit) is a specialized electronic circuit designed to rapidly manipulate memory for image rendering and parallel computing."
+    },
+    {
+      "question": "What is 1 Gigabyte (GB) equivalent to in Megabytes (MB) in binary standard?",
+      "options": ["100 MB", "512 MB", "1000 MB", "1024 MB"],
+      "correctAnswer": 3,
+      "explanation": "In computing binary units (gibibytes / gigabytes), 1 GB is composed of 1,024 MB (2^10 MB)."
+    },
+    {
+      "question": "What does 'HTTP' stand for in web addresses?",
+      "options": ["HyperText Transfer Protocol", "High Technology Test Process", "Hyperlink Text Typing Path", "Home Terminal Transfer Portal"],
+      "correctAnswer": 0,
+      "explanation": "HTTP stands for HyperText Transfer Protocol, the foundational communication protocol for the World Wide Web."
+    }
+  ]
+}

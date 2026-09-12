@@ -1,0 +1,77 @@
+{
+  "id": "artificial-intelligence-basics",
+  "slug": "artificial-intelligence-basics",
+  "title": "Artificial Intelligence Basics",
+  "description": "Explore the principles of AI, the Turing Test, neural networks, computer vision, and modern GenAI.",
+  "category": "Artificial Intelligence",
+  "categorySlug": "artificial-intelligence",
+  "difficulty": "easy",
+  "estimatedTime": "3 min",
+  "featured": true,
+  "popular": true,
+  "seoTitle": "Artificial Intelligence Basics Quiz – Test Your AI Knowledge | AI Quiz Arena",
+  "seoDescription": "Test your AI knowledge with this 10-question quiz on neural networks, Turing test, generative AI, and computer vision.",
+  "keywords": ["artificial intelligence quiz", "AI basics test", "machine learning trivia", "neural networks quiz", "turing test"],
+  "questions": [
+    {
+      "question": "Who formulated the famous 1950 'Imitation Game' benchmark commonly known as the Turing Test?",
+      "options": ["John McCarthy", "Alan Turing", "Marvin Minsky", "Geoffrey Hinton"],
+      "correctAnswer": 1,
+      "explanation": "Alan Turing proposed the test in his seminal paper 'Computing Machinery and Intelligence' to evaluate machine conversational indistinguishability."
+    },
+    {
+      "question": "What does the abbreviation 'LLM' stand for in contemporary AI technologies?",
+      "options": ["Low Latency Module", "Large Language Model", "Linear Logic Machine", "Linked Learning Matrix"],
+      "correctAnswer": 1,
+      "explanation": "Large Language Models (LLMs) are deep learning models trained on vast corpora of text capable of understanding and generating language."
+    },
+    {
+      "question": "What computing architecture inspired by biological neurons forms the core of modern deep learning?",
+      "options": ["Relational Database", "Artificial Neural Network", "Quantum Register", "Deterministic Finite Automata"],
+      "correctAnswer": 1,
+      "explanation": "Artificial Neural Networks (ANNs) mimic interconnected biological brain neurons with weighted nodes and activation functions."
+    },
+    {
+      "question": "Which field of AI enables computers to derive meaningful information from digital images and videos?",
+      "options": ["Natural Language Processing", "Computer Vision", "Robotic Process Automation", "Speech Synthesis"],
+      "correctAnswer": 1,
+      "explanation": "Computer Vision equips algorithms to extract, analyze, and comprehend visual inputs such as photos and video feeds."
+    },
+    {
+      "question": "Who is credited with coining the term 'Artificial Intelligence' at the 1956 Dartmouth workshop?",
+      "options": ["John McCarthy", "Claude Shannon", "Herbert Simon", "Tim Berners-Lee"],
+      "correctAnswer": 0,
+      "explanation": "John McCarthy proposed the term 'Artificial Intelligence' in the 1955 proposal for the historic 1956 Dartmouth Summer Research Project."
+    },
+    {
+      "question": "What does 'NLP' stand for in artificial intelligence research?",
+      "options": ["Network Layer Protocol", "Natural Language Processing", "Neural Logic Programming", "Node Level Partitioning"],
+      "correctAnswer": 1,
+      "explanation": "Natural Language Processing (NLP) is the branch of AI dedicated to giving computers the ability to understand text and spoken words."
+    },
+    {
+      "question": "What is the phenomenon called when an AI model confidently invents false information or non-existent facts?",
+      "options": ["Overfitting", "Hallucination", "Quantization", "Backpropagation"],
+      "correctAnswer": 1,
+      "explanation": "Hallucination describes generative AI outputs that present factual inaccuracies or ungrounded claims with high stylistic confidence."
+    },
+    {
+      "question": "Which company created the famous AlphaGo system that defeated world Go champion Lee Sedol in 2016?",
+      "options": ["DeepMind", "OpenAI", "Meta AI", "IBM Watson"],
+      "correctAnswer": 0,
+      "explanation": "DeepMind developed AlphaGo, combining Monte Carlo tree search with deep neural networks to master the game of Go."
+    },
+    {
+      "question": "What type of learning involves an agent receiving rewards or penalties based on its actions in an environment?",
+      "options": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Rule-Based Deductive Learning"],
+      "correctAnswer": 2,
+      "explanation": "Reinforcement Learning trains an agent to maximize cumulative rewards through trial-and-error environmental interactions."
+    },
+    {
+      "question": "What is the revolutionary neural architecture introduced by Google researchers in the 2017 paper 'Attention Is All You Need'?",
+      "options": ["Convolutional Network", "Transformer", "Recurrent Network", "Boltzmann Machine"],
+      "correctAnswer": 1,
+      "explanation": "The Transformer architecture relies on self-attention mechanisms and serves as the architectural foundation for modern LLMs."
+    }
+  ]
+}

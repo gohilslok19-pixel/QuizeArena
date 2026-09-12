@@ -1,0 +1,76 @@
+{
+  "id": "programming-fundamentals",
+  "slug": "programming-fundamentals",
+  "title": "Programming Fundamentals",
+  "description": "Evaluate your grasp of object-oriented concepts, loops, debugging, variable scope, and clean coding.",
+  "category": "Computer Science",
+  "categorySlug": "computer-science",
+  "difficulty": "medium",
+  "estimatedTime": "3 min",
+  "popular": true,
+  "seoTitle": "Programming Fundamentals Quiz – OOP & Logic Test | AI Quiz Arena",
+  "seoDescription": "Sharpen your coding skills with 10 questions on OOP principles, variable types, loops, and control flow.",
+  "keywords": ["programming fundamentals quiz", "coding trivia", "OOP quiz", "software engineering questions"],
+  "questions": [
+    {
+      "question": "Which of the following is NOT one of the four foundational pillars of Object-Oriented Programming (OOP)?",
+      "options": ["Encapsulation", "Compilation", "Inheritance", "Polymorphism"],
+      "correctAnswer": 1,
+      "explanation": "The four core pillars of OOP are Encapsulation, Abstraction, Inheritance, and Polymorphism. Compilation is a translation process."
+    },
+    {
+      "question": "In JavaScript and TypeScript, which keyword declares a block-scoped variable that cannot be reassigned?",
+      "options": ["var", "let", "const", "static"],
+      "correctAnswer": 2,
+      "explanation": "'const' declares a block-scoped identifier that cannot be reassigned after its initial declaration."
+    },
+    {
+      "question": "What is the standard name for an error where a program continues running a loop indefinitely?",
+      "options": ["Null Pointer Exception", "Infinite Loop", "Stack Overflow", "Syntax Error"],
+      "correctAnswer": 1,
+      "explanation": "An infinite loop occurs when the loop's termination condition is never reached or always evaluates to true."
+    },
+    {
+      "question": "Which programming language is predominantly used to add interactive behavior to client-side web applications?",
+      "options": ["Python", "C#", "JavaScript", "PHP"],
+      "correctAnswer": 2,
+      "explanation": "JavaScript is the primary programming language of the World Wide Web, supported by all major web browsers natively."
+    },
+    {
+      "question": "What does the acronym 'DRY' stand for in software engineering best practices?",
+      "options": ["Don't Repeat Yourself", "Direct Routing Yield", "Data Recovery Yard", "Deploy Rapid Yield"],
+      "correctAnswer": 0,
+      "explanation": "DRY stands for 'Don't Repeat Yourself', emphasizing that every piece of knowledge or logic must have a single authoritative representation."
+    },
+    {
+      "question": "What is the purpose of a 'try...catch' block in modern programming languages?",
+      "options": ["Speed up CPU processing", "Handle runtime exceptions gracefully", "Declare recursive loops", "Import external packages"],
+      "correctAnswer": 1,
+      "explanation": "'try...catch' allows developers to test code for errors during execution and intercept exceptions without crashing the program."
+    },
+    {
+      "question": "What data format uses curly braces for objects, square brackets for arrays, and is based on a JavaScript subset?",
+      "options": ["XML", "YAML", "JSON", "CSV"],
+      "correctAnswer": 2,
+      "explanation": "JSON (JavaScript Object Notation) is a lightweight, human-readable data interchange format ubiquitous in web APIs."
+    },
+    {
+      "question": "Which version control command creates a new working branch in Git and switches to it in one step?",
+      "options": ["git branch -d", "git checkout -b <branch>", "git merge <branch>", "git status"],
+      "correctAnswer": 1,
+      "explanation": "'git checkout -b <branch>' (or modern 'git switch -c <branch>') creates a new branch and immediately checks it out."
+    },
+    {
+      "question": "What is the return value of 15 % 4 in modular arithmetic?",
+      "options": ["3", "3.75", "1", "4"],
+      "correctAnswer": 0,
+      "explanation": "15 divided by 4 equals 3 with a remainder of 3 (4 * 3 = 12; 15 - 12 = 3)."
+    },
+    {
+      "question": "What programming paradigm treats computation as the evaluation of mathematical functions without mutating state?",
+      "options": ["Functional Programming", "Procedural Programming", "Object-Oriented Programming", "Imperative Programming"],
+      "correctAnswer": 0,
+      "explanation": "Functional programming focuses on pure functions, immutability, and avoiding shared state or side effects."
+    }
+  ]
+}

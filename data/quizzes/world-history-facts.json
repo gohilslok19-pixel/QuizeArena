@@ -1,0 +1,77 @@
+{
+  "id": "world-history-facts",
+  "slug": "world-history-facts",
+  "title": "World History Milestones",
+  "description": "Travel through empires, revolutions, peace treaties, and world-shaping events from ancient times to modern history.",
+  "category": "History",
+  "categorySlug": "history",
+  "difficulty": "medium",
+  "estimatedTime": "3 min",
+  "featured": true,
+  "popular": true,
+  "seoTitle": "World History Milestones Quiz – Empires & Revolutions | AI Quiz Arena",
+  "seoDescription": "10 questions on major world history events: the Roman Empire, French Revolution, World War I, and ancient civilizations.",
+  "keywords": ["world history quiz", "history trivia questions", "ancient history test", "revolutions quiz"],
+  "questions": [
+    {
+      "question": "In what year did Christopher Columbus first make landfall in the Americas?",
+      "options": ["1488", "1492", "1504", "1512"],
+      "correctAnswer": 1,
+      "explanation": "Christopher Columbus anchored at an island in the Bahamas (Guanahani) on October 12, 1492."
+    },
+    {
+      "question": "Who was the first Emperor of the Roman Empire, reigning from 27 BC until AD 14?",
+      "options": ["Julius Caesar", "Augustus Caesar", "Nero", "Marcus Aurelius"],
+      "correctAnswer": 1,
+      "explanation": "Augustus (originally Gaius Octavius) became the first Roman Emperor after the demise of the Roman Republic."
+    },
+    {
+      "question": "The storming of which prison fortress in Paris on July 14, 1789, ignited the French Revolution?",
+      "options": ["The Bastille", "Conciergerie", "Versailles Palace", "Château de Vincennes"],
+      "correctAnswer": 0,
+      "explanation": "The Storming of the Bastille on July 14, 1789, represented an assault on royal tyranny and is commemorated as Bastille Day."
+    },
+    {
+      "question": "In which city did the assassination of Archduke Franz Ferdinand take place in 1914, triggering World War I?",
+      "options": ["Vienna", "Sarajevo", "Belgrade", "Prague"],
+      "correctAnswer": 1,
+      "explanation": "Archduke Franz Ferdinand of Austria was assassinated in Sarajevo on June 28, 1914, sparking the July Crisis and World War I."
+    },
+    {
+      "question": "Which historic wall dividing a European city fell on November 9, 1989?",
+      "options": ["Hadrian's Wall", "The Berlin Wall", "The Great Wall of Europe", "The Antonine Wall"],
+      "correctAnswer": 1,
+      "explanation": "The fall of the Berlin Wall in November 1989 marked the beginning of the end of the Cold War and led to German reunification."
+    },
+    {
+      "question": "Which English monarch signed the Magna Carta at Runnymede in the year 1215?",
+      "options": ["King Richard the Lionheart", "King John", "King Henry VIII", "King Edward I"],
+      "correctAnswer": 1,
+      "explanation": "King John granted the Magna Carta under pressure from rebel barons in June 1215, establishing that the sovereign is subject to law."
+    },
+    {
+      "question": "Which ancient civilization created the monumental Step Pyramid of Djoser?",
+      "options": ["Mesopotamian", "Ancient Greek", "Ancient Egyptian", "Phoenician"],
+      "correctAnswer": 2,
+      "explanation": "The Step Pyramid of Djoser at Saqqara was built during the Third Dynasty of ancient Egypt by the architect Imhotep."
+    },
+    {
+      "question": "What devastating pandemic swept across Eurasia and North Africa between 1346 and 1353?",
+      "options": ["Spanish Flu", "Black Death (Bubonic Plague)", "Justinian Plague", "Cholera Pandemic"],
+      "correctAnswer": 1,
+      "explanation": "The Black Death was caused by the bacterium Yersinia pestis, resulting in the deaths of an estimated 75-200 million people."
+    },
+    {
+      "question": "Which military leader conquered the Persian Empire and established an empire stretching from Greece to northwest India before age 30?",
+      "options": ["Julius Caesar", "Alexander the Great", "Genghis Khan", "Hannibal Barca"],
+      "correctAnswer": 1,
+      "explanation": "Alexander III of Macedon (Alexander the Great) created one of the largest empires of the ancient world by 323 BC."
+    },
+    {
+      "question": "What landmark international organization was created in 1945 immediately following the conclusion of World War II?",
+      "options": ["League of Nations", "United Nations (UN)", "NATO", "European Coal and Steel Community"],
+      "correctAnswer": 1,
+      "explanation": "The United Nations was officially established on October 24, 1945, after the Charter was ratified by 51 founding countries."
+    }
+  ]
+}

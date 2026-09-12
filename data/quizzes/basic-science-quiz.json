@@ -1,0 +1,77 @@
+{
+  "id": "basic-science-quiz",
+  "slug": "basic-science-quiz",
+  "title": "Basic Science Quiz",
+  "description": "Test your fundamentals in biology, chemistry, and general earth science with 10 engaging multiple-choice questions.",
+  "category": "Science",
+  "categorySlug": "science",
+  "difficulty": "easy",
+  "estimatedTime": "3 min",
+  "featured": true,
+  "popular": true,
+  "seoTitle": "Basic Science Quiz – Fundamental Science Questions | AI Quiz Arena",
+  "seoDescription": "Practice basic science concepts with this 10-question quiz. Covers photosynthesis, cells, atoms, and chemical reactions.",
+  "keywords": ["basic science quiz", "general science mcq", "biology chemistry quiz", "science trivia online"],
+  "questions": [
+    {
+      "question": "Which organelle is often referred to as the 'powerhouse of the cell'?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+      "correctAnswer": 2,
+      "explanation": "Mitochondria generate most of the chemical energy needed to power cellular reactions in the form of ATP."
+    },
+    {
+      "question": "What gas do green plants primarily absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+      "correctAnswer": 1,
+      "explanation": "Plants take in carbon dioxide (CO2) from the air and water from the soil to produce glucose and oxygen using sunlight."
+    },
+    {
+      "question": "What is the pH level of pure distilled water at 25 degrees Celsius?",
+      "options": ["0", "5", "7", "14"],
+      "correctAnswer": 2,
+      "explanation": "A pH of 7 represents a neutral solution where hydrogen ion concentration equals hydroxide ion concentration."
+    },
+    {
+      "question": "Which human organ is responsible for pumping blood throughout the circulatory system?",
+      "options": ["Lungs", "Brain", "Liver", "Heart"],
+      "correctAnswer": 3,
+      "explanation": "The heart is a muscular organ that pumps blood through blood vessels of the circulatory system."
+    },
+    {
+      "question": "What is the chemical formula for ordinary table salt?",
+      "options": ["KCl", "NaCl", "NaOH", "CaCl2"],
+      "correctAnswer": 1,
+      "explanation": "Table salt is composed of sodium and chlorine ions bonded together as Sodium Chloride (NaCl)."
+    },
+    {
+      "question": "Which state of matter has a definite volume but takes the shape of its container?",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correctAnswer": 1,
+      "explanation": "Liquids have fixed volume because intermolecular forces keep molecules together, but they flow to match containers."
+    },
+    {
+      "question": "What pigment gives plant leaves their vibrant green color?",
+      "options": ["Chlorophyll", "Carotenoid", "Melanin", "Hemoglobin"],
+      "correctAnswer": 0,
+      "explanation": "Chlorophyll absorbs blue and red wavelengths of light and reflects green light, making plants appear green."
+    },
+    {
+      "question": "What is the boiling point of pure water at standard atmospheric pressure in Celsius?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correctAnswer": 1,
+      "explanation": "At 1 atmosphere of pressure, water boils at exactly 100 degrees Celsius (212 degrees Fahrenheit)."
+    },
+    {
+      "question": "Which subatomic particle carries a negative electric charge?",
+      "options": ["Proton", "Neutron", "Electron", "Positron"],
+      "correctAnswer": 2,
+      "explanation": "Electrons are negatively charged subatomic particles that orbit the atomic nucleus."
+    },
+    {
+      "question": "What layer of the Earth's atmosphere protects surface life by absorbing ultraviolet (UV) radiation?",
+      "options": ["Troposphere", "Ozone Layer", "Mesosphere", "Thermosphere"],
+      "correctAnswer": 1,
+      "explanation": "The ozone layer in the stratosphere absorbs the majority of the sun's harmful ultraviolet radiation."
+    }
+  ]
+}

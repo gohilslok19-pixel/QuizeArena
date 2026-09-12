@@ -1,0 +1,77 @@
+{
+  "id": "space-challenge",
+  "slug": "space-challenge",
+  "title": "Space Challenge",
+  "description": "Embark on an interstellar journey through black holes, cosmic rays, nebulae, galaxies, and space missions.",
+  "category": "Space",
+  "categorySlug": "space",
+  "difficulty": "medium",
+  "estimatedTime": "3 min",
+  "featured": true,
+  "popular": true,
+  "seoTitle": "Space Challenge Quiz – Astronomy & Cosmic Trivia | AI Quiz Arena",
+  "seoDescription": "Explore astronomy, NASA missions, black holes, and the universe in this 10-question Space Challenge quiz.",
+  "keywords": ["space quiz", "astronomy trivia", "black hole quiz", "NASA space test", "cosmic exploration"],
+  "questions": [
+    {
+      "question": "What is the boundary around a black hole beyond which nothing, not even light, can escape?",
+      "options": ["Accretion Disk", "Event Horizon", "Photon Sphere", "Singularity"],
+      "correctAnswer": 1,
+      "explanation": "The event horizon is the threshold where the escape velocity of the gravitational field equals the speed of light."
+    },
+    {
+      "question": "What is the closest spiral galaxy to our Milky Way galaxy?",
+      "options": ["Triangulum Galaxy", "Andromeda Galaxy", "Large Magellanic Cloud", "Sombrero Galaxy"],
+      "correctAnswer": 1,
+      "explanation": "Andromeda (M31) is approximately 2.5 million light-years from Earth and is the nearest major spiral galaxy to the Milky Way."
+    },
+    {
+      "question": "Which space telescope was launched on Christmas Day 2021 as the successor to Hubble?",
+      "options": ["James Webb Space Telescope (JWST)", "Spitzer Telescope", "Kepler Observatory", "Chandra X-ray Observatory"],
+      "correctAnswer": 0,
+      "explanation": "The James Webb Space Telescope was launched December 25, 2021, providing high-resolution infrared views of the early universe."
+    },
+    {
+      "question": "Who was the first human being to travel into outer space in 1961?",
+      "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+      "correctAnswer": 1,
+      "explanation": "Soviet cosmonaut Yuri Gagarin completed one orbit of Earth aboard Vostok 1 on April 12, 1961."
+    },
+    {
+      "question": "What is the primary element fueling nuclear fusion in the core of our Sun?",
+      "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+      "correctAnswer": 1,
+      "explanation": "The Sun fuses hydrogen nuclei (protons) into helium at its core via the proton-proton chain reaction."
+    },
+    {
+      "question": "What is a light-year a unit of?",
+      "options": ["Time", "Speed", "Distance", "Luminosity"],
+      "correctAnswer": 2,
+      "explanation": "A light-year is a unit of astronomical distance: the distance that light travels in a vacuum in one Julian year (approx. 9.46 trillion km)."
+    },
+    {
+      "question": "What astronomical body is located at the center of our Milky Way galaxy?",
+      "options": ["A pulsar named Crab", "A supermassive black hole named Sagittarius A*", "A white dwarf binary star", "A magnetar"],
+      "correctAnswer": 1,
+      "explanation": "Sagittarius A* is a supermassive black hole containing approximately 4 million solar masses located at the Milky Way's galactic center."
+    },
+    {
+      "question": "Which robotic rover landed in Jezero Crater on Mars in February 2021 searching for ancient biosignatures?",
+      "options": ["Curiosity", "Perseverance", "Opportunity", "Spirit"],
+      "correctAnswer": 1,
+      "explanation": "NASA's Perseverance rover touched down in Jezero Crater on February 18, 2021, accompanied by the Ingenuity helicopter."
+    },
+    {
+      "question": "What is the name of the cosmic explosion that marks the violent gravitational collapse of a massive dying star?",
+      "options": ["Planetary Nebula", "Supernova", "Protostar", "Solar Flare"],
+      "correctAnswer": 1,
+      "explanation": "A supernova is a catastrophic stellar explosion producing an outburst of energy outshining an entire galaxy."
+    },
+    {
+      "question": "What theoretical structure in general relativity provides a hypothetical shortcut connecting distant points in spacetime?",
+      "options": ["Dyson Sphere", "Wormhole (Einstein-Rosen Bridge)", "Cosmic String", "Tachyon Field"],
+      "correctAnswer": 1,
+      "explanation": "An Einstein-Rosen bridge, commonly called a wormhole, is a speculative topological feature creating a shortcut through spacetime."
+    }
+  ]
+}

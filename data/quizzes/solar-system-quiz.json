@@ -1,0 +1,76 @@
+{
+  "id": "solar-system-quiz",
+  "slug": "solar-system-quiz",
+  "title": "Solar System Quiz",
+  "description": "Test your knowledge of the 8 planets, dwarf planets, moons, rings, and asteroids orbiting our Sun.",
+  "category": "Space",
+  "categorySlug": "space",
+  "difficulty": "easy",
+  "estimatedTime": "3 min",
+  "popular": true,
+  "seoTitle": "Solar System Quiz – Planets, Moons & Asteroids | AI Quiz Arena",
+  "seoDescription": "How well do you know our cosmic neighborhood? 10 fun questions on Mars, Jupiter, Saturn, Venus, and planetary moons.",
+  "keywords": ["solar system quiz", "planets trivia", "space quiz for students", "jupiter saturn earth quiz"],
+  "questions": [
+    {
+      "question": "Which planet is famously known as the 'Red Planet' due to iron oxide on its surface?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "correctAnswer": 1,
+      "explanation": "Mars appears reddish because rust-like iron minerals in its soil and atmosphere oxidize under planetary conditions."
+    },
+    {
+      "question": "What is the largest planet in our solar system by both diameter and mass?",
+      "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+      "correctAnswer": 2,
+      "explanation": "Jupiter is the largest planet; it contains more than twice the combined mass of all other planets in the solar system."
+    },
+    {
+      "question": "Which planet in our solar system has the hottest average surface temperature due to an extreme greenhouse effect?",
+      "options": ["Mercury", "Venus", "Mars", "Earth"],
+      "correctAnswer": 1,
+      "explanation": "Venus has a thick carbon dioxide atmosphere that traps heat, creating surface temperatures exceeding 460°C (860°F)."
+    },
+    {
+      "question": "Which gas giant is famous for having the most prominent and visible ring system?",
+      "options": ["Jupiter", "Uranus", "Saturn", "Neptune"],
+      "correctAnswer": 2,
+      "explanation": "Saturn's spectacular rings are made primarily of countless chunks of water ice and rocky debris."
+    },
+    {
+      "question": "What is the name of Jupiter's largest moon, which is also the largest moon in the entire solar system?",
+      "options": ["Europa", "Titan", "Ganymede", "Callisto"],
+      "correctAnswer": 2,
+      "explanation": "Ganymede is larger in diameter than both Mercury and Pluto and possesses its own magnetic field."
+    },
+    {
+      "question": "In what year was Pluto reclassified from a major planet to a 'dwarf planet' by the International Astronomical Union?",
+      "options": ["1999", "2003", "2006", "2010"],
+      "correctAnswer": 2,
+      "explanation": "In August 2006, the IAU established three criteria for full planets; Pluto failed to 'clear the neighborhood around its orbit'."
+    },
+    {
+      "question": "Between which two planets is the main Asteroid Belt located?",
+      "options": ["Earth and Mars", "Mars and Jupiter", "Jupiter and Saturn", "Saturn and Uranus"],
+      "correctAnswer": 1,
+      "explanation": "The main asteroid belt lies in the vast orbital expanse separating the inner terrestrial planet Mars and the outer gas giant Jupiter."
+    },
+    {
+      "question": "What is the closest planet to the Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "correctAnswer": 2,
+      "explanation": "Mercury orbits closest to the Sun at an average distance of approximately 57.9 million kilometers (36 million miles)."
+    },
+    {
+      "question": "Which planet rotates on its side with an axial tilt of nearly 98 degrees?",
+      "options": ["Neptune", "Uranus", "Saturn", "Venus"],
+      "correctAnswer": 1,
+      "explanation": "Uranus has an unusual 97.77-degree tilt, rotating almost parallel to its orbital plane, likely due to an ancient massive collision."
+    },
+    {
+      "question": "What is the name of Saturn's largest moon, which has a dense atmosphere and liquid hydrocarbon lakes?",
+      "options": ["Titan", "Enceladus", "Triton", "Io"],
+      "correctAnswer": 0,
+      "explanation": "Titan is the only moon known to have a dense atmosphere and stable surface liquid bodies (methane and ethane lakes)."
+    }
+  ]
+}

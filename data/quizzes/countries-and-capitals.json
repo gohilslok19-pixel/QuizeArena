@@ -1,0 +1,76 @@
+{
+  "id": "countries-and-capitals",
+  "slug": "countries-and-capitals",
+  "title": "Countries & Capitals",
+  "description": "How sharp is your memory for national capital cities across Europe, the Americas, Asia, and Oceania?",
+  "category": "Geography",
+  "categorySlug": "geography",
+  "difficulty": "medium",
+  "estimatedTime": "3 min",
+  "popular": true,
+  "seoTitle": "Countries & Capitals Quiz – Test Your World Capitals | AI Quiz Arena",
+  "seoDescription": "Challenge yourself with 10 questions testing your knowledge of world capital cities from Australia to Canada.",
+  "keywords": ["countries and capitals quiz", "world capitals test", "geography capitals mcq", "capital city trivia"],
+  "questions": [
+    {
+      "question": "What is the federal capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctAnswer": 2,
+      "explanation": "Canberra was selected as a compromise site between rivals Sydney and Melbourne in 1908 to serve as the nation's capital."
+    },
+    {
+      "question": "What is the capital city of Canada?",
+      "options": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+      "correctAnswer": 3,
+      "explanation": "Ottawa, located in Ontario along the border with Quebec, was chosen by Queen Victoria as the capital of Canada in 1857."
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correctAnswer": 2,
+      "explanation": "Brasília is a planned city inaugurated in 1960 to move the capital inland from Rio de Janeiro."
+    },
+    {
+      "question": "What is the capital city of Switzerland?",
+      "options": ["Zurich", "Geneva", "Bern", "Basel"],
+      "correctAnswer": 2,
+      "explanation": "Bern serves as the de facto federal city and seat of the Swiss federal government (Bundesstadt)."
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "options": ["Alexandria", "Cairo", "Giza", "Luxor"],
+      "correctAnswer": 1,
+      "explanation": "Cairo is the sprawling capital of Egypt, situated along the banks of the Nile River."
+    },
+    {
+      "question": "What is the capital city of New Zealand?",
+      "options": ["Auckland", "Christchurch", "Wellington", "Queenstown"],
+      "correctAnswer": 2,
+      "explanation": "Wellington, situated on the southern tip of the North Island, is the world's southernmost capital city."
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "options": ["Busan", "Incheon", "Seoul", "Daegu"],
+      "correctAnswer": 2,
+      "explanation": "Seoul is the vibrant capital and largest metropolis of the Republic of Korea (South Korea)."
+    },
+    {
+      "question": "What is the capital city of Kenya in East Africa?",
+      "options": ["Mombasa", "Nairobi", "Kisumu", "Eldoret"],
+      "correctAnswer": 1,
+      "explanation": "Nairobi is Kenya's capital and financial hub, famously known as the 'Green City in the Sun'."
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+      "correctAnswer": 1,
+      "explanation": "Ankara was designated the capital of the Republic of Turkey by Mustafa Kemal Atatürk in 1923, succeeding Istanbul."
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "options": ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"],
+      "correctAnswer": 0,
+      "explanation": "Buenos Aires is the cosmopolitan capital of Argentina, located on the western shore of the Río de la Plata estuary."
+    }
+  ]
+}

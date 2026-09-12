@@ -1,0 +1,75 @@
+{
+  "id": "internet-technology-quiz",
+  "slug": "internet-technology-quiz",
+  "title": "Internet & Web Technology",
+  "description": "Test your knowledge on domains, DNS, cybersecurity, IP addresses, and modern web networking.",
+  "category": "Technology",
+  "categorySlug": "technology",
+  "difficulty": "medium",
+  "estimatedTime": "3 min",
+  "seoTitle": "Internet & Web Technology Quiz | AI Quiz Arena",
+  "seoDescription": "How does the internet work? Test your knowledge of DNS, TCP/IP, HTTPS, cloud computing, and cybersecurity.",
+  "keywords": ["internet quiz", "web technology test", "networking quiz", "cybersecurity trivia"],
+  "questions": [
+    {
+      "question": "What system translates human-friendly domain names like 'example.com' into numerical IP addresses?",
+      "options": ["DHCP", "DNS", "FTP", "SSL"],
+      "correctAnswer": 1,
+      "explanation": "DNS (Domain Name System) functions as the address book of the internet, resolving hostname strings into IP addresses."
+    },
+    {
+      "question": "What does the 'S' in 'HTTPS' stand for?",
+      "options": ["System", "Secure", "Server", "Speed"],
+      "correctAnswer": 1,
+      "explanation": "HTTPS stands for HyperText Transfer Protocol Secure; it encrypts communications using Transport Layer Security (TLS/SSL)."
+    },
+    {
+      "question": "How many bits are in an IPv4 address?",
+      "options": ["16 bits", "32 bits", "64 bits", "128 bits"],
+      "correctAnswer": 1,
+      "explanation": "An IPv4 address consists of 32 bits divided into 4 eight-bit octets (e.g., 192.168.1.1)."
+    },
+    {
+      "question": "How many bits are in an IPv6 address?",
+      "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+      "correctAnswer": 2,
+      "explanation": "IPv6 addresses are 128 bits in length, providing approximately 3.4 x 10^38 unique addresses to overcome IPv4 exhaustion."
+    },
+    {
+      "question": "Which protocol is primarily used for securely logging into and executing commands on remote servers?",
+      "options": ["SSH", "Telnet", "SMTP", "IMAP"],
+      "correctAnswer": 0,
+      "explanation": "SSH (Secure Shell) provides strong cryptographic authentication and encrypted terminal access over an unsecured network."
+    },
+    {
+      "question": "What is the standard port number used for encrypted HTTPS web traffic?",
+      "options": ["21", "80", "443", "8080"],
+      "correctAnswer": 2,
+      "explanation": "Port 443 is the standard IANA port assigned for HTTPS traffic, whereas unencrypted HTTP uses port 80."
+    },
+    {
+      "question": "Which web technology stores key-value data in the client's browser with no expiration date?",
+      "options": ["SessionStorage", "Cookies", "LocalStorage", "IndexedDB Cache"],
+      "correctAnswer": 2,
+      "explanation": "window.localStorage allows web applications to persist key-value pairs in a client browser with no expiration."
+    },
+    {
+      "question": "What type of attack involves overwhelming a server with fictitious traffic to make it unavailable?",
+      "options": ["Phishing", "DDoS Attack", "SQL Injection", "Cross-Site Scripting"],
+      "correctAnswer": 1,
+      "explanation": "A Distributed Denial of Service (DDoS) attack overwhelms targeted systems with traffic from distributed compromised machines."
+    },
+    {
+      "question": "Which organization coordinates the global assignment of unique domain names and IP address blocks?",
+      "options": ["W3C", "IEEE", "ICANN", "IETF"],
+      "correctAnswer": 2,
+      "explanation": "ICANN (Internet Corporation for Assigned Names and Numbers) coordinates the global maintenance of domain namespaces and IP allocation."
+    },
+    {
+      "question": "What does 'CDN' stand for in web delivery architecture?",
+      "options": ["Central Domain Network", "Content Delivery Network", "Client Data Node", "Core Developer Node"],
+      "correctAnswer": 1,
+      "explanation": "A Content Delivery Network (CDN) is a geographically distributed group of servers that cache content close to end users for ultra-fast load times."
+    }
+  ]
+}

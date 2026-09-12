@@ -1,0 +1,76 @@
+{
+  "id": "machine-learning-fundamentals",
+  "slug": "machine-learning-fundamentals",
+  "title": "Machine Learning Fundamentals",
+  "description": "Evaluate your understanding of gradient descent, loss functions, overfitting, clustering, and model validation.",
+  "category": "Artificial Intelligence",
+  "categorySlug": "artificial-intelligence",
+  "difficulty": "hard",
+  "estimatedTime": "4 min",
+  "popular": true,
+  "seoTitle": "Machine Learning Fundamentals Quiz – ML Algorithms & Metrics | AI Quiz Arena",
+  "seoDescription": "10-question Machine Learning challenge covering supervised vs unsupervised learning, gradient descent, overfitting, and precision/recall.",
+  "keywords": ["machine learning quiz", "ML algorithms mcq", "gradient descent quiz", "data science questions"],
+  "questions": [
+    {
+      "question": "What occurs when a machine learning model performs exceptionally well on training data but poorly on unseen test data?",
+      "options": ["Underfitting", "Overfitting", "Gradient Explosion", "Data Leakage"],
+      "correctAnswer": 1,
+      "explanation": "Overfitting happens when a model learns noise and specific idiosyncrasies of training samples rather than general patterns."
+    },
+    {
+      "question": "Which optimization algorithm iteratively adjusts model parameters in the direction of the steepest descent of the loss function?",
+      "options": ["K-Means", "Gradient Descent", "Random Forest", "Principal Component Analysis"],
+      "correctAnswer": 1,
+      "explanation": "Gradient Descent minimizes the loss function by computing gradients with respect to parameters and taking proportional negative steps."
+    },
+    {
+      "question": "What type of machine learning uses unlabeled datasets to discover intrinsic groupings or structures?",
+      "options": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Semi-Supervised Labeling"],
+      "correctAnswer": 1,
+      "explanation": "Unsupervised learning discovers hidden patterns, clusters, or representations in data without explicit ground-truth target labels."
+    },
+    {
+      "question": "Which evaluation metric represents the ratio of True Positives to all samples predicted as positive (TP / (TP + FP))?",
+      "options": ["Recall", "Precision", "Accuracy", "Specificity"],
+      "correctAnswer": 1,
+      "explanation": "Precision measures the accuracy of positive predictions: of all instances marked positive, what fraction were truly positive."
+    },
+    {
+      "question": "What is the primary role of an activation function (e.g., ReLU, Sigmoid) in a neural network?",
+      "options": ["Reduce memory footprint", "Introduce non-linearity into model predictions", "Calculate gradient norms", "Normalize input features"],
+      "correctAnswer": 1,
+      "explanation": "Without non-linear activation functions, a multi-layer neural network would collapse mathematically into a single linear regression."
+    },
+    {
+      "question": "What popular unsupervised clustering algorithm partitions n observations into k clusters based on nearest mean centroids?",
+      "options": ["K-Nearest Neighbors (KNN)", "K-Means Clustering", "Support Vector Machine", "DBSCAN"],
+      "correctAnswer": 1,
+      "explanation": "K-Means groups data into k distinct clusters by iteratively recomputing cluster centroids and assigning points to their nearest centroid."
+    },
+    {
+      "question": "In classification problems, what diagram shows the counts of True Positives, False Positives, True Negatives, and False Negatives?",
+      "options": ["Scree Plot", "Confusion Matrix", "Pareto Chart", "Residual Plot"],
+      "correctAnswer": 1,
+      "explanation": "A Confusion Matrix summarizes the prediction results of a classification algorithm across actual versus predicted categories."
+    },
+    {
+      "question": "What regularization technique randomly deactivates a fraction of neurons during each forward/backward training pass?",
+      "options": ["L2 Ridge Regularization", "Batch Normalization", "Dropout", "Early Stopping"],
+      "correctAnswer": 2,
+      "explanation": "Dropout randomly zeroes out units during training to prevent co-adaptation of neurons and mitigate overfitting."
+    },
+    {
+      "question": "What is the key algorithm used to calculate gradients of loss with respect to weights in multi-layer neural networks?",
+      "options": ["Backpropagation", "Dijkstra's Algorithm", "A* Search", "Simulated Annealing"],
+      "correctAnswer": 0,
+      "explanation": "Backpropagation applies the calculus chain rule recursively from the output layer backwards to compute gradient values efficiently."
+    },
+    {
+      "question": "What does the 'F1 Score' measure in classification models?",
+      "options": ["Arithmetic mean of Precision and Loss", "Harmonic mean of Precision and Recall", "Geometric mean of Accuracy and AUC", "Weighted sum of Sensitivity and Specificity"],
+      "correctAnswer": 1,
+      "explanation": "The F1 Score is the harmonic mean of precision and recall: 2 * (Precision * Recall) / (Precision + Recall)."
+    }
+  ]
+}

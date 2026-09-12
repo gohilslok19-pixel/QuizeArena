@@ -1,0 +1,77 @@
+{
+  "id": "india-general-knowledge",
+  "slug": "india-general-knowledge",
+  "title": "India General Knowledge",
+  "description": "Discover India's constitution, freedom struggle, national emblems, heritage sites, and major achievements.",
+  "category": "India",
+  "categorySlug": "india",
+  "difficulty": "easy",
+  "estimatedTime": "3 min",
+  "featured": true,
+  "popular": true,
+  "seoTitle": "India General Knowledge Quiz – Indian History & Heritage | AI Quiz Arena",
+  "seoDescription": "Test your India GK with 10 questions on the Constitution, national symbols, ISRO achievements, and history.",
+  "keywords": ["india gk quiz", "indian heritage trivia", "india general knowledge test", "isro constitution quiz"],
+  "questions": [
+    {
+      "question": "Who was the chief architect and chairman of the Drafting Committee of the Indian Constitution?",
+      "options": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+      "correctAnswer": 1,
+      "explanation": "Dr. Bhimrao Ramji Ambedkar served as the chairman of the Drafting Committee and is revered as the Father of the Indian Constitution."
+    },
+    {
+      "question": "What is the national aquatic animal of India?",
+      "options": ["Ganges River Dolphin", "Blue Whale", "Gharial", "Olive Ridley Sea Turtle"],
+      "correctAnswer": 0,
+      "explanation": "The Ganges River Dolphin (Platanista gangetica) was declared the National Aquatic Animal of India in 2009."
+    },
+    {
+      "question": "In what year did India officially gain independence from British rule?",
+      "options": ["1942", "1945", "1947", "1950"],
+      "correctAnswer": 2,
+      "explanation": "India attained independence at midnight on August 15, 1947, ending nearly two centuries of British rule."
+    },
+    {
+      "question": "Which historic monument in Agra was commissioned by Mughal Emperor Shah Jahan in memory of Mumtaz Mahal?",
+      "options": ["Qutub Minar", "Red Fort", "Taj Mahal", "Fatehpur Sikri"],
+      "correctAnswer": 2,
+      "explanation": "The Taj Mahal, an ivory-white marble mausoleum on the south bank of the Yamuna river, was commissioned in 1632."
+    },
+    {
+      "question": "What is the national motto of India inscribed at the base of the Lion Capital of Ashoka?",
+      "options": ["Jai Hind", "Vande Mataram", "Satyameva Jayate", "Inquilab Zindabad"],
+      "correctAnswer": 2,
+      "explanation": "'Satyameva Jayate' (Truth Alone Triumphs), taken from the Mundaka Upanishad, is India's national motto."
+    },
+    {
+      "question": "Which Indian state has the longest coastline on the mainland?",
+      "options": ["Maharashtra", "Tamil Nadu", "Gujarat", "Andhra Pradesh"],
+      "correctAnswer": 2,
+      "explanation": "Gujarat boasts the longest coastline among Indian mainland states, extending approximately 1,600 kilometers along the Arabian Sea."
+    },
+    {
+      "question": "Who was the first President of the Republic of India?",
+      "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Zakir Husain", "C. Rajagopalachari"],
+      "correctAnswer": 0,
+      "explanation": "Dr. Rajendra Prasad served as the first President of India from 1950 to 1962."
+    },
+    {
+      "question": "Which space agency achieved a historic soft landing near the lunar south pole with Chandrayaan-3 in 2023?",
+      "options": ["NASA", "ESA", "ISRO", "JAXA"],
+      "correctAnswer": 2,
+      "explanation": "ISRO (Indian Space Research Organisation) successfully landed the Vikram lander near the Moon's south pole on August 23, 2023."
+    },
+    {
+      "question": "What is the national song of India, composed by Bankim Chandra Chatterjee?",
+      "options": ["Jana Gana Mana", "Vande Mataram", "Sare Jahan Se Accha", "Vijayi Vishwa Tiranga Pyara"],
+      "correctAnswer": 1,
+      "explanation": "'Vande Mataram' was composed in Sanskrit by Bankim Chandra Chatterjee in his 1882 novel Anandamath."
+    },
+    {
+      "question": "Which festival is famously celebrated across India with colors, water, and celebration of spring?",
+      "options": ["Diwali", "Holi", "Navratri", "Onam"],
+      "correctAnswer": 1,
+      "explanation": "Holi, known as the Festival of Colors, celebrates the arrival of spring, love, and the victory of good over evil."
+    }
+  ]
+}

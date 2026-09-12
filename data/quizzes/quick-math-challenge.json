@@ -1,0 +1,77 @@
+{
+  "id": "quick-math-challenge",
+  "slug": "quick-math-challenge",
+  "title": "Quick Math Challenge",
+  "description": "Sharpen your mental arithmetic and speed with 10 fast calculation and logic problems.",
+  "category": "Mathematics",
+  "categorySlug": "mathematics",
+  "difficulty": "easy",
+  "estimatedTime": "2 min",
+  "featured": true,
+  "popular": true,
+  "seoTitle": "Quick Math Challenge – Fast Mental Arithmetic Quiz | AI Quiz Arena",
+  "seoDescription": "Train your mental math with 10 quick arithmetic questions. Test percentages, squares, primes, and fast operations.",
+  "keywords": ["quick math quiz", "mental arithmetic challenge", "math brain teaser", "fast calculation questions"],
+  "questions": [
+    {
+      "question": "What is the square of 15?",
+      "options": ["175", "215", "225", "255"],
+      "correctAnswer": 2,
+      "explanation": "15 * 15 = 225."
+    },
+    {
+      "question": "What is 25% of 240?",
+      "options": ["50", "60", "70", "80"],
+      "correctAnswer": 1,
+      "explanation": "25% is one-fourth: 240 / 4 = 60."
+    },
+    {
+      "question": "Which of the following numbers is a prime number?",
+      "options": ["21", "27", "37", "49"],
+      "correctAnswer": 2,
+      "explanation": "37 has only two positive divisors: 1 and 37 itself. 21=3*7, 27=3*9, 49=7*7."
+    },
+    {
+      "question": "What is the value of 8 + 4 * 3 according to standard order of operations (PEMDAS/BODMAS)?",
+      "options": ["36", "20", "24", "15"],
+      "correctAnswer": 1,
+      "explanation": "Multiplication precedes addition: 4 * 3 = 12, then 8 + 12 = 20."
+    },
+    {
+      "question": "What is the perimeter of a rectangle with length 12 cm and width 8 cm?",
+      "options": ["40 cm", "48 cm", "96 cm", "20 cm"],
+      "correctAnswer": 0,
+      "explanation": "Perimeter = 2 * (length + width) = 2 * (12 + 8) = 2 * 20 = 40 cm."
+    },
+    {
+      "question": "What is the cube root of 64?",
+      "options": ["2", "4", "6", "8"],
+      "correctAnswer": 1,
+      "explanation": "4 * 4 * 4 = 16 * 4 = 64, so the cube root is 4."
+    },
+    {
+      "question": "If a shirt normally costing $80 is on sale with a 20% discount, what is the sale price?",
+      "options": ["$60", "$64", "$68", "$72"],
+      "correctAnswer": 1,
+      "explanation": "20% of 80 is $16. 80 - 16 = $64."
+    },
+    {
+      "question": "What is 7 factorial (7!) divided by 6 factorial (6!)?",
+      "options": ["1", "6", "7", "42"],
+      "correctAnswer": 2,
+      "explanation": "7! / 6! = (7 * 6 * 5 * 4 * 3 * 2 * 1) / (6 * 5 * 4 * 3 * 2 * 1) = 7."
+    },
+    {
+      "question": "What is the sum of the interior angles of any triangle?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctAnswer": 1,
+      "explanation": "The sum of the three interior angles in any Euclidean planar triangle is always 180 degrees."
+    },
+    {
+      "question": "If 3x + 9 = 24, what is the value of x?",
+      "options": ["3", "5", "7", "9"],
+      "correctAnswer": 1,
+      "explanation": "3x = 24 - 9 = 15; x = 15 / 3 = 5."
+    }
+  ]
+}
