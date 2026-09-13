@@ -5,7 +5,6 @@ import { Quiz } from '@/types/quiz';
 import ProgressBar from './ProgressBar';
 import QuestionCard from './QuestionCard';
 import ResultCard from './ResultCard';
-import Badge from '@/ui/Badge';
 import Button from '@/ui/Button';
 import AdSlot from '@/components/ads/AdSlot';
 import {
@@ -142,24 +141,14 @@ export default function QuizEngine({ quiz }: QuizEngineProps) {
       {/* INTRO SCREEN */}
       {gameState === 'intro' && (
         <div className="rounded-3xl border border-slate-800 bg-slate-900/80 p-6 sm:p-10 backdrop-blur-md shadow-2xl text-center space-y-6">
-          <div className="flex flex-wrap items-center justify-center gap-2">
-            <Badge difficulty={quiz.difficulty}>
-              {quiz.difficulty.toUpperCase()}
-            </Badge>
-            <Badge variant="category">{quiz.category}</Badge>
-            <span className="inline-flex items-center gap-1 text-xs text-slate-400">
-              <Clock className="w-3.5 h-3.5" />
-              {quiz.estimatedTime}
-            </span>
+          <div className="space-y-2">
+            <h2 className="text-xl sm:text-2xl md:text-3xl font-bold tracking-tight text-white">
+              Ready to Test Your Skills?
+            </h2>
+            <p className="text-sm sm:text-base text-slate-300 max-w-xl mx-auto leading-relaxed">
+              Challenge yourself with 10 verified questions. Answer at your own pace and receive instant explanations after each choice.
+            </p>
           </div>
-
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-white">
-            {quiz.title}
-          </h1>
-
-          <p className="text-sm sm:text-base text-slate-300 max-w-xl mx-auto leading-relaxed">
-            {quiz.description}
-          </p>
 
           {personalBest !== null && (
             <div className="inline-flex items-center gap-2 rounded-xl bg-purple-950/40 border border-purple-500/30 px-4 py-2 text-xs font-semibold text-purple-300">
@@ -170,7 +159,7 @@ export default function QuizEngine({ quiz }: QuizEngineProps) {
             </div>
           )}
 
-          <div className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-4">
+          <div className="pt-2 flex flex-col sm:flex-row items-center justify-center gap-4">
             <Button
               variant="primary"
               size="lg"

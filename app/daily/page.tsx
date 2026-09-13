@@ -43,9 +43,11 @@ export default function DailyChallengePage() {
           <span>Synchronized Worldwide</span>
         </div>
 
-        <p className="text-xs sm:text-sm text-slate-300 max-w-lg mx-auto">
-          Every day a new quiz is selected. Complete today's challenge to maintain
-          your streak and test your trivia memory. Come back tomorrow for a new topic!
+        <p className="text-xs sm:text-sm text-slate-300 max-w-xl mx-auto leading-relaxed">
+          {dailyQuiz.introText}
+        </p>
+        <p className="text-xs text-slate-400 max-w-md mx-auto">
+          Complete today&apos;s challenge to maintain your streak and test your recall. Synchronized globally for all players.
         </p>
       </div>
 

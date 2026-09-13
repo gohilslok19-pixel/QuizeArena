@@ -22,6 +22,7 @@ export interface Quiz {
   keywords: string[];
   featured?: boolean;
   popular?: boolean;
+  introText?: string;
 }
 
 export interface CategoryInfo {

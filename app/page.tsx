@@ -394,7 +394,36 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 6. FAQ SECTION */}
+      {/* 6. HOW AI QUIZ ARENA HELPS YOU MASTER TECHNICAL CONCEPTS */}
+      <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="rounded-3xl border border-slate-800 bg-slate-900/40 p-8 sm:p-12 lg:p-14 space-y-6 backdrop-blur-sm">
+          <div className="space-y-3">
+            <div className="inline-flex items-center gap-2 rounded-full border border-purple-500/30 bg-purple-950/40 px-3.5 py-1.5 text-xs font-semibold text-purple-300">
+              <Brain className="w-3.5 h-3.5 text-purple-400" />
+              <span>Evidence-Based Microlearning</span>
+            </div>
+            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
+              How AI Quiz Arena Helps You Master Technical Concepts
+            </h2>
+          </div>
+
+          <div className="space-y-5 text-slate-300 text-sm sm:text-base leading-relaxed max-w-4xl">
+            <p>
+              Mastering technical subjects like computer science, programming languages, and complex system architectures requires more than passive video watching or reading documentation. Cognitive science demonstrates that active recall—retrieving information from memory through targeted problem-solving—dramatically strengthens neural pathways. By engaging with bite-sized, 10-question quizzes, learners force their brains to recall syntactical rules, algorithmic logic, and core concepts under gentle pressure, converting fragile short-term insights into durable long-term memory.
+            </p>
+
+            <p>
+              For software engineers and STEM students balancing demanding schedules, marathon study sessions often lead to cognitive overload and diminishing returns. Our structured 10-question format leverages microlearning principles, delivering focused bursts of high-yield knowledge in just three to five minutes. Each challenge presents real-world code snippets, core CS fundamentals, and rapid-fire problem statements that keep attention sharp, making deliberate daily practice sustainable between classes, commutes, or sprint cycles.
+            </p>
+
+            <p>
+              True mastery happens at the exact point of mistake correction. Rather than waiting until the end of an extensive exam to identify knowledge gaps, AI Quiz Arena provides instant answer explanations immediately after each selection. This immediate feedback loop clarifies tricky edge cases, reinforces best practices like clean code principles and object-oriented design, and cements foundational understanding before misconceptions become ingrained development habits.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* 7. FAQ SECTION */}
       <section className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 space-y-6">
         <div className="text-center space-y-2">
           <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">

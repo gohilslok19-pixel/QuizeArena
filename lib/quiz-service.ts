@@ -1,5 +1,6 @@
 import { Quiz, CategoryInfo, Difficulty } from '@/types/quiz';
 import { CATEGORIES } from '@/data/categories';
+import { getQuizIntroText, QUIZ_INTROS } from '@/data/quiz-intros';
 
 // Import all 20 static quiz JSON files
 import generalKnowledgeChallenge from '@/data/quizzes/general-knowledge-challenge.json';
@@ -23,7 +24,7 @@ import mathematicsBasics from '@/data/quizzes/mathematics-basics.json';
 import worldHistoryFacts from '@/data/quizzes/world-history-facts.json';
 import sportsTriviaChampionship from '@/data/quizzes/sports-trivia-championship.json';
 
-const ALL_QUIZZES: Quiz[] = [
+const RAW_QUIZZES: Quiz[] = [
   generalKnowledgeChallenge as Quiz,
   worldKnowledgeQuiz as Quiz,
   basicScienceQuiz as Quiz,
@@ -45,6 +46,13 @@ const ALL_QUIZZES: Quiz[] = [
   worldHistoryFacts as Quiz,
   sportsTriviaChampionship as Quiz,
 ];
+
+const ALL_QUIZZES: Quiz[] = RAW_QUIZZES.map((quiz) => ({
+  ...quiz,
+  introText: getQuizIntroText(quiz),
+}));
+
+export { getQuizIntroText, QUIZ_INTROS };
 
 export function getAllQuizzes(): Quiz[] {
   return ALL_QUIZZES;
